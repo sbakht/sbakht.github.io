@@ -2,7 +2,6 @@
 layout: post
 title: "blur the line"
 date: 2016-02-27 15:04:39
-image: '/assets/img/'
 description: what is a game in vr?
 ---
 
