@@ -274,3 +274,18 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+
+footer{
+    #email {
+        display:inline-block;
+    }
+    #github {
+        display:inline-block;
+        margin-left:40%;
+    }
+    #linkedin {
+        display:inline-block;
+        float:right;
+    }
+}
+
