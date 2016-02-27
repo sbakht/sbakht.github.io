@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "Tickle Your Brain With Spacechem"
+title: "Spacechem"
 date: 2016-02-05 22:00:39
-image: '/assets/img/'
-description:
-tags: Gaming
-categories:
-twitter_text:
+description: a game where you feel like coding
 ---
 
 I recently started playing the game [Spacechem][steam]. I've had it for years in my steam inventory and I've tried it for 5 minutes a while back, but the tutorial told me nothing so I shut it off.
 
 Then I came across this video:
-<iframe style="width:100%" src="https://www.youtube.com/embed/RjYOYtd298o" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%" height="400" src="https://www.youtube.com/embed/RjYOYtd298o" frameborder="0" allowfullscreen></iframe>
 
 He explained it pretty well so I decided to give the game another shot and WOW is it just like programming! The way I was sitting there trying to figure out how to solve the game puzzles is the same way I work through programming puzzles. 
 
