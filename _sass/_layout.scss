@@ -88,13 +88,6 @@ width:100%;
 /**
  * Pagination   **********************************************************
  */
-.pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-text-align: center;
-width: 100%;
-position: fixed;
-bottom: 50px;
-}
 .paginationicon {
 font-size: 50px;
 a {
@@ -288,3 +281,10 @@ footer{
     }
 }
 
+.pagination-disabled {
+    opacity: 0.5;
+}
+
+.pagination .next {
+    float:right;
+}
